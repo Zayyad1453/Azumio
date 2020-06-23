@@ -7,7 +7,7 @@ const FormComponent = (props) => {
       <div className='header bolder mx-auto font-md'>
         {props.header}
       </div>
-      <div className='sub-header bold font-sm my-sm'>
+      <div className='sub-header font-sm my-sm'>
         {props.subheader}
       </div>
       <div className='options-container clearfix'>
