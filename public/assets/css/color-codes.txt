@@ -1,4 +1,0 @@
-red - #c04355
-white - #fff
-grey - #f6f6f6
-hero-gradient - #962238 to #240515 radial
